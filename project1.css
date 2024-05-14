@@ -1,0 +1,124 @@
+/* HTML & CSS Basics */
+body {
+    margin: 0;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+header {
+    
+        height: 81px;
+        width: 1440px;
+    
+        background: #2E94CC;
+        font-family: Arial;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: white;
+        padding-top: 26px;
+        padding-left: 610px;
+    }
+
+article{
+   
+    max-width: 850px;
+    margin: auto;
+    padding-top: 70px;
+}
+.a{
+    font-family: Nunito;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 199px;
+    height: 18px;
+    top: 170px;
+    left: 300px;
+   
+}
+.b,.c{
+    
+font-family: Nunito;
+font-size: 12px;
+font-weight: 400;
+
+line-height: 22px;
+letter-spacing: 0px;
+text-align: center;
+width: 105px;
+height: 22px;
+top: 251px;
+left: 294px;
+color:black;
+
+}
+.b span{
+    margin-right: 4px;
+}
+.b img{
+   vertical-align: middle;
+}
+.c{
+    margin-bottom: 12px;
+}
+
+.hero-image{
+    margin: 50 px 0;
+}
+.hero-image img{
+    max-width: 100%;
+}
+h1{
+margin: 0;   
+font-family: Arial;
+font-size: 52px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0.015em;
+text-align: center;
+max-width: 797px;
+height: 58px;
+top: 176px;
+left: 294px;
+
+}
+article p{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#content-section{
+    max-width: 680px;
+    margin: auto;
+
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+iframe{
+    margin: 50px 0;
+}
+footer{
+    max-width: 680px;
+    margin: auto;
+    padding: 20px 15px;
+    background-color: #F1F1F1;
+    font-family: Nunito;
+}
+footer ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+footer ul li{
+    margin-bottom: 12px;
+}
+footer ul li:last-of-type{
+    margin-bottom: 0;
+}
+
